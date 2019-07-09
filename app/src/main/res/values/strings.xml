@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recording</string>
+    <drawable name="color1">#ADD8E6</drawable>
+    <drawable name="color2">#F0FFFF</drawable>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
